@@ -8,8 +8,6 @@ The core idea: most small businesses generate data every day but have no practic
 
 ## Live Demo
 
-## Live Demo
-
 🔗 **[Try Esoda Live](https://esodaapp.streamlit.app)**
 
 Upload any sales CSV or Excel file and get instant insights — no configuration required.
