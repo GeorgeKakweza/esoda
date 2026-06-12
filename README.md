@@ -31,6 +31,8 @@ Upload any sales CSV or Excel file and get instant insights — no configuration
 | Language | Python |
 
 ## Project Structure
+
+```
 esoda/
 ├── core/
 │   ├── ingestion.py      # Data loading, cleaning and enrichment
@@ -41,6 +43,7 @@ esoda/
 │   └── freshmart_sales_data.csv
 ├── esoda.py              # Main Streamlit application
 └── requirements.txt
+```
 
 ## Running Locally
 
